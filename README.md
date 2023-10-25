@@ -2,45 +2,86 @@
 auto gpt 对接 ChatGPT Plus  GPT-4
 
 
-# -ChatGPT-Plus-ChatGPT  共享使用ChatGPT Plus账号 稳定主打性价比  手工注册ChatGPT 帮忙注册ChatGPT 独享账号
+# FreeGPT4.0APIKEY
+FreeGPT4.0APIKEY 中转 点击了解👉🏻 <a href="https://oneapi.huinong.co" target="_blank">GPTech API</a>
+# 它的特点：
+#### 方便：所有用到 OpenAI API 的地方都可以无缝替代；
+#### 快速：我会持续优化中转服务的线路速度，来保证使用体验；
+#### 省心：没有包月，没有会员，没有限时，用多少买多少，不用担心过期。
+# 如何使用？
+首先需要<a href="https://oneapi.huinong.co/register" target="_blank">【注册】</a>一个平台账号成为平台用户，然后去<a href="https://oneapi.huinong.co/token" target="_blank">【令牌】</a> 中生成令牌（令牌名称随便写方便自己记忆，令牌过期时间自己用可以设置为不过期，令牌余额自己用直接设置为不限额）。  
+点击打开👉🏻  <a href="https://bot.huinong.co" target="_blank">ChatGPT Next Web</a> 或任何第三方可以更换接口和APIKey的地方即可使用。  
+在“设置”中找到 "接口地址"填入 ```https://oneapi.huinong.co```，在“API Key”中填入复制的 ```令牌key ```，就可以使用了。  
+独立开发者或者部署的技术人员需要把BASE_URL 替换 为上面 接口地址，API Key 替换为 令牌 Key。  
+只需要保证自己账户余额充足，不限制调用次数，不限制使用时间，余额用完即止。余额不足请点击👉🏻 【充值】按钮查看余额或进行购买兑换余额。  
+另外Midjourney的API调用需要单独对接，如果是使用Mj的请联系我获取开发文档。  
+哔哩哔哩使用教程：<a href="https://www.bilibili.com/video/BV1aN411z7Kt/?share_source=copy_web&vd_source=0a70e7845129738934f93c76a8fac0a6">什么是OneAPI？ 我们怎么使用GPTech API</a>  
+YouTube使用教程：<a href="https://youtu.be/az6RabCuv8Y">OpenAI 中转3.5 和 4.0 APIKey 使用 OneAPI怎么操作 GPTech API的操作流程</a>  
 
-# 组队使用 Apple One 上车 Apple TV 美区 台区 印区 日区 凭车票上车 下单阅读详情
-<a href="https://wp.huinong.co/index.php/product/share-apple-one/">点击进入了解</a>
+# 我们目前支持AI模型有:
+gpt-4  
+gpt-4-0314  
+gpt-4-0613
+gpt-4-32k  
+gpt-4-32k-0314
+gpt-4-32k-0613
+gpt-3.5-turbo  
+gpt-3.5-turbo-0301  
+gpt-3.5-turbo-0613  
+gpt-3.5-turbo-16k  
+gpt-3.5-turbo-16k-0613  
+text-embedding-ada-002 等所有3.5模型
+支持DALL-E图片生成  
+Claude-2-100k  
+Claude-instant  
+Midjourney AI画图   
 
+# 注意：
+根据最新《生成式人工智能服务管理暂行办法》中提及内容生成式人工智能AI必须对其网站、算法以及训练模型合法备案供者应当明确并公开其服务的适用人群、场合、用途，指导使用者科学理性认识和依法使用生成式人工智能技术，采取有效措施防范未成年人用户过度依赖或者沉迷生成式人工智能服务，按要求对训练数据来源、规模、类型、标注规则、算法机制机理等予以说明，并提供必要的技术、数据等支持和协助。  
 
-# 组队使用 Spotify 上车 全球最大曲库 组队使用 最高等级账户 印度区 下单前阅读详情
-<a href="https://wp.huinong.co/index.php/product/spotify/">点击进入了解</a>
+4.0 的额度消耗速度是 3.5 的 20 到 40 倍，单次聊天最高可能会消耗高达数万 token，请谨慎使用。  
+如果不能打开，就是网络问题，目前还没有解决办法，请自备魔法吧。  
+使用该服务时，有哪些节省 token 的小技巧？  
+携带历史消息数：数量越少，消耗 token 越少，但同时 gpt 会忘记之前的对话  
+历史摘要：用于记录长期话题，关闭后可以减少 token 消耗  
+注入系统级提示词：用于提升 ChatGPT 的回复质量，关闭后可减少 token 消耗  
+在对话时，点击对话框上方的机器人图标，可以快捷切换模型，可以优先使用 3.5 问答，如果回答不满意，再切换为 4.0 重新提问。 
 
+                        _oo0oo_
+                       o8888888o
+                       88" . "88
+                       (| -_- |)
+                       0\  =  /0
+                     ___/`---'\___
+                   .' \\|     |// '.
+                  / \\|||  :  |||// \
+                 / _||||| -:- |||||- \
+                |   | \\\  - /// |   |
+                | \_|  ''\---/''  |_/ |
+                \  .-\__  '-'  ___/-. /
+              ___'. .'  /--.--\  `. .'___
+           ."" '《  `.___\_《|》_/___.' >' "".
+          | | :  `- \`.;`\ _ /`;.`/ - ` : | |
+          \  \ `_.   \_ __\ /__ _/   .-` /  /
+      =====`-.____`.___ \_____/___.-`___.-'=====
+                        `=---='
+ 
+  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-# 组队使用 Netflix 奈飞 网飞 全球解锁 4K高清 上车 月季年付 凭车票搞起 下单阅读详情
-<a href="https://wp.huinong.co/index.php/product/netflix-share/">点击进入了解</a>
+        佛祖保佑       永不宕机     永无BUG
 
+        佛曰:  
+            写字楼里写字间，写字间里程序员；  
+            程序人员写程序，又拿程序换酒钱。  
+            酒醒只在网上坐，酒醉还来网下眠；  
+            酒醉酒醒日复日，网上网下年复年。  
+            但愿老死电脑间，不愿鞠躬老板前；  
+            奔驰宝马贵者趣，公交自行程序员。  
+            别人笑我忒疯癫，我笑自己命太贱；  
+            不见满街漂亮妹，哪个归得程序员？
 
-# 代注册 OpenAI ChatGPT 独享账号 纯手工单 可修改密码 谷歌授权登录号 普通直登号 含120刀直登号
-<a href="https://wp.huinong.co/index.php/product/openai-chatgpt-gm/">点击进入了解</a>
 
 
 # 帮忙开发软件 网站 App 微信公众号 小程序 等技术研发 电商 短视频 AIot 智能AI 面向全国客户的软件和 IT 解决方案服务
 <a href="https://wp.huinong.co/index.php/product/dev-app-html/">点击进入了解</a>
-
-
-# 代搭建全球任意国家独立服务器VPS节点 专享定制(680/年起) 自己独立使用节点 IP干净
-<a href="https://wp.huinong.co/index.php/product/vps-vpn/">点击进入了解</a>
-
-
-# ChatGPT-4 Plus 成品号 独享账号 个人独享 可改密码 已充值一个月会员 可直接使用
-<a href="https://wp.huinong.co/index.php/product/chatgpt-4-plus-1us/">点击进入了解</a>
-
-
-# 手工代充 ChatGPT-4 Plus代充服务 提供现有的ChatGPT账号充值到您自己的账号当中
-<a href="https://wp.huinong.co/index.php/product/chatgpt-4-plus-cz/">点击进入了解</a>
-
-
-# Youtube 年付会员 必备订阅用了之后回不去看视频无广告支持后台播放 真的好用
-<a href="https://wp.huinong.co/index.php/product/youtube-vip/">点击进入了解</a>
-
-# 组队使用 ChatGPT Plus 不需要你再充值 买车票直接上车使用 账号均海外人工注册 放心使用 主打性价比 购买请先阅读详情
-<a href="https://wp.huinong.co/index.php/product/chatgpt-plus/">点击进入了解</a>
-
-
 
