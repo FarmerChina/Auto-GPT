@@ -47,6 +47,9 @@ Midjourney AI画图
 注入系统级提示词：用于提升 ChatGPT 的回复质量，关闭后可减少 token 消耗  
 在对话时，点击对话框上方的机器人图标，可以快捷切换模型，可以优先使用 3.5 问答，如果回答不满意，再切换为 4.0 重新提问。 
 
+# 帮忙开发软件 网站 App 微信公众号 小程序 等技术研发 电商 短视频 AIot 智能AI 面向全国客户的软件和 IT 解决方案服务
+<a href="https://wp.huinong.co/index.php/product/dev-app-html/">点击进入了解</a>
+
                         _oo0oo_
                        o8888888o
                        88" . "88
@@ -79,9 +82,4 @@ Midjourney AI画图
             奔驰宝马贵者趣，公交自行程序员。  
             别人笑我忒疯癫，我笑自己命太贱；  
             不见满街漂亮妹，哪个归得程序员？
-
-
-
-# 帮忙开发软件 网站 App 微信公众号 小程序 等技术研发 电商 短视频 AIot 智能AI 面向全国客户的软件和 IT 解决方案服务
-<a href="https://wp.huinong.co/index.php/product/dev-app-html/">点击进入了解</a>
 
